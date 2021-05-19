@@ -1,1 +1,1 @@
-# jimbo
+[![momocow's github stats](https://github-readme-stats.vercel.app/api?username=68681395)(https://github.com/anuraghazra/github-readme-stats)
