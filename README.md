@@ -1,3 +1,3 @@
-## 奇怪代码收容所 * Shelter of bug *
+## 奇怪代码收容所 * Shelter of code *
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnjimbo)](https://github.com/anuraghazra/github-readme-stats)
