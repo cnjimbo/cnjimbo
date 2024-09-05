@@ -271,18 +271,18 @@ jobs:
 #           plugin_skyline_frames: 6
 #           plugin_skyline_quality: 1
      
-      # ⏱️ Google PageSpeed
-      - name: Screenshot
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/pagespeed.screenshot.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://blog.sunguoqi.com
+      # # ⏱️ Google PageSpeed
+      # - name: Screenshot
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/pagespeed.screenshot.svg
+      #     token: NOT_NEEDED
+      #     base: ""
+      #     plugin_pagespeed: yes
+      #     plugin_pagespeed_detailed: yes
+      #     plugin_pagespeed_screenshot: yes
+      #     plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+      #     plugin_pagespeed_url: https://blog.sunguoqi.com
 
       # 🐤 Latest tweets
       # 需要申请开发者账户
@@ -355,16 +355,16 @@ jobs:
 #           plugin_rss_source: https://news.ycombinator.com/rss
 #           plugin_rss_limit: 4
 
-      # ⏰ WakaTime
-      - name: WakaTime
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+      # # ⏰ WakaTime
+      # - name: WakaTime
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/wakatime.svg
+      #     token: NOT_NEEDED
+      #     base: ""
+      #     plugin_wakatime: yes
+      #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+      #     plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           
 #       # 🗳️ Leetcode
 #       - name: LeetCode
