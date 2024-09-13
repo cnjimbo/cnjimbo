@@ -291,6 +291,35 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#99f11b6</div>
+                                        <div class="message">refactor(extension): 更新命令和日志记录的导入和使用
+
+- 重命名`useCommand`为`useReactiveCommand`以清晰区分。
+- 直接使用`useCommands`及其它相关函数，不再通过别名。
+- 更新所有相关扩展模块，统一命令和日志记录的调用方式。
+- 移除`useLogger`的别名导入，直接使用`useReactiveLogger`。
+- 在`extension.ts`文件中应用新的命令和日志记录用法。
+- 简化`RunOnSaveExtension`类中命令的注册和执行。
+
+此重构提高了代码的清晰度，并确保了扩展中命令和日志记录机制的一致性。</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">open-dmsrs/vscode-project-config-updater</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#f17544d</div>
                                         <div class="message">refactor(extension): 更新generated-meta.ts文件的代码格式和结构
 
@@ -372,42 +401,12 @@ BREAKING CHANGE: 此调整修改了generated-meta.ts的结构和格式，可能�
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">open-dmsrs/vscode-project-config-updater</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#957f1ff</div>
-                                        <div class="message">文档更新与配置优化
-
-- 扩展文档注释，包括新的`Run On Save`命令配置。
-- 调整配置注释，以更好地说明新增的`emeraldwalk.runonsave`选项。
-- 从包配置中移除冗余的i18n-ally设置，简化配置文件。
-- 在README中添加缺失的命令，并更新命令表格的格式。
-
-These changes enhance the documentation and streamline the configuration for
-the `Run On Save` feature while ensuring consistency across the README and
-package.json files. The update also resolves issues with the display of
-configuration options in the extension's documentation.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2024, 23:09:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2024, 00:10:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
