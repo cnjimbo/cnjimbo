@@ -291,6 +291,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#74b1dc3</div>
+                                        <div class="message">配置eslint以关闭无限禁用规则并添加新的依赖项
+
+在eslint配置中禁用'unlimited-disable'规则，并在package.json和pnpm-lock.yaml中添加新的依赖项。这些依赖项包括'@profusion/json-schema-to-typescript-definitions'和'json-schema-to-ts'，以支持json模式到Typescript定义的转换。此外，更新了reactive-meta-gen的路径引用。</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">open-dmsrs/vscode-project-config-updater</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#1d2f38a</div>
                                         <div class="message">refactor(extension): 更新命令和配置的导入路径
 
@@ -371,39 +393,12 @@ configuration options in the extension's documentation.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">open-dmsrs/vscode-project-config-updater</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5625ef4</div>
-                                        <div class="message">文档更新与代码优化
-
-- 移除README中的配置注释以简化项目设置的说明。
-- 通过使用新生成的meta导入替换原有的meta导入，优化了extension/src/proconf内的代码结构。
-- 确保在fetch.ts中使用新的meta配置进行项目配置的获取。
-- 在index.ts中对commands和projectConfigConfigObject的导入也进行了更新，以使用生成的meta。
-
-这些更改提供了更简洁的文档，并通过优化的代码结构和更新的配置对象引用，增强了项目的可维护性和清晰度。</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2024, 16:12:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2024, 17:10:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
