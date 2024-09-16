@@ -291,6 +291,50 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#0abe001</div>
+                                        <div class="message">重命名项目配置扩展名为项目工具包
+
+将'vscode-project-config-updater'扩展名更名为'vscode-project-kit'，以更好地反映其作为项目管理工具的角色。更新了所有相关的README、package.json和其他文件引用，以一致地使用新的命名。</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">open-dmsrs/vscode-project-config-updater</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#534238c</div>
+                                        <div class="message">重命名扩展并更新相关引用
+
+将扩展的名称从"Project Config Updater"更改为"Project Kit"，以更好地反映其功能。更新了相关的文档、命令和常量引用，以一致地使用新的名称。</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">open-dmsrs/vscode-project-config-updater</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#e4ee363</div>
                                         <div class="message">docs: 更新弦纹文档以包含字符串、字节和void数据类型
 
@@ -357,70 +401,12 @@ refactor: 刷新EntityClass时保留flush参数的一致性
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">open-dmsrs/vscode-project-config-updater</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#99f11b6</div>
-                                        <div class="message">refactor(extension): 更新命令和日志记录的导入和使用
-
-- 重命名`useCommand`为`useReactiveCommand`以清晰区分。
-- 直接使用`useCommands`及其它相关函数，不再通过别名。
-- 更新所有相关扩展模块，统一命令和日志记录的调用方式。
-- 移除`useLogger`的别名导入，直接使用`useReactiveLogger`。
-- 在`extension.ts`文件中应用新的命令和日志记录用法。
-- 简化`RunOnSaveExtension`类中命令的注册和执行。
-
-此重构提高了代码的清晰度，并确保了扩展中命令和日志记录机制的一致性。</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">open-dmsrs/vscode-project-config-updater</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f17544d</div>
-                                        <div class="message">refactor(extension): 更新generated-meta.ts文件的代码格式和结构
-
-对generated-meta.ts文件中的代码进行了重构，以提高可读性和一致性。此次更新包括调整代码结构，使其更加简洁，并且通过修改import/export语句以及commands和configurations的定义，增强了代码的一致性。
-
-- 合并了commands和configurations的定义，以简化文件结构。
-- 重新排序和重新格式化import/export语句，以提高可读性。
-- 调整了generated-meta.ts中的类型定义，使其更加清晰。
-- 更新了package.json中的scripts以指向新的reactive-meta-gen路径。
-
-BREAKING CHANGE: 此调整修改了generated-meta.ts的结构和格式，可能会影响依赖其原始结构的代码。</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Sept 2024, 05:08:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Sept 2024, 06:08:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
