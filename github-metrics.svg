@@ -291,6 +291,30 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#a7af69b</div>
+                                        <div class="message">refactor(extension): 玉行者配置和命令的重新映射和优化
+
+- 重新映射玉行者命令，如manualUpdate和changeAnnnotations，优化命令注册和使用。
+- 调整配置项命名和默认值，提高配置的清晰度和可维护性。
+- 简化文件监视器配置和日志记录集成，增强模块化和可操作性。</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">open-dmsrs/vscode-project-config-updater</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#7dd7e20</div>
                                         <div class="message">refactor(extension): 更新命令和配置的钩子实现
 
@@ -373,37 +397,12 @@ refactor: 刷新EntityClass时保留flush参数的一致性
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">open-dmsrs/vscode-project-config-updater</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#57c0d0b</div>
-                                        <div class="message">refactor(extension): 更新命令注册和添加日志记录
-
-- 重构命令注册，使用useCommandManualUpdate代替之前的useCommands实现。
-- 扩展日志记录功能，包括警告和输出通道记录。
-- 在runonsave配置更改时，通过新的日志记录器发出警告。
-- 文件更改通知中添加了额外的日志记录信息。</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Sept 2024, 14:13:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Sept 2024, 15:09:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
