@@ -291,6 +291,33 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#5372874</div>
+                                        <div class="message">refactor(run-on-save): 重构并重命名配置与运行命令
+
+- 重命名 `emeraldwalk.runonsave` 配置为 `runonsave`。
+- 将 `shell` 属性移动到 `runonsave` 配置下。
+- 更新运行命令的配置结构，使其更加清晰。
+- 重构 `RunOnSaveExtension` 类以使用新的配置结构。
+
+此更改简化了运行命令功能的配置和使用，提高了代码的清晰度和可维护性。</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">open-dmsrs/vscode-project-config-updater</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#a7af69b</div>
                                         <div class="message">refactor(extension): 玉行者配置和命令的重新映射和优化
 
@@ -367,42 +394,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">open-dmsrs/vscode-project-config-updater</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e4ee363</div>
-                                        <div class="message">docs: 更新弦纹文档以包含字符串、字节和void数据类型
-
-扩展了NumPy文档，以在常规介绍部分中包含字符串、字节和void数据类型的信息，这些信息以前遗漏了，现已与现有数值类型并列提及。
-
-fix: 保证用户创建期间UUID的正确分配
-
-修正了用户创建操作中的错误，该错误由于SQL查询中参数顺序不正确，导致UUID未正确分配，现已通过重新排列查询参数解决，确保用户记录成功创建。
-
-refactor: 刷新EntityClass时保留flush参数的一致性
-
-调整EntityClass内的刷新机制，以确保在重新加载时准确地遵循`flush`参数设置。这解决了之前无论`flush`设置如何都会刷新新实体的问题，现在将根据`flush`参数的值决定是否进行刷新。</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Sept 2024, 19:08:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Sept 2024, 20:17:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
