@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="903" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1669" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -284,31 +284,23 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">cnjimbo/cnjimbo.github.io</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">test-publish</span></div>
+                                    <div>on branch <span class="code">feature/test2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4273cd4</div>
-                                        <div class="message">Merge branch 'master' into test-publish</div>
+                                        <div class="sha">#b78b1ed</div>
+                                        <div class="message">fix condition of Auto Create Pull Request</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">cnjimbo-patch-1</span>
-                                        in
-                                        <span class="repo">cnjimbo/cnjimbo.github.io</span>
+                                    <div class="commit">
+                                        <div class="sha">#a3cac3f</div>
+                                        <div class="message">fix condition of Auto Create Pull Request</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#278e552</div>
+                                        <div class="message">add manul trigger to action - Auto Create Pull Request</div>
                                     </div>
                                 </div>
                             </section>
@@ -325,10 +317,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">feature/test2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5029b4c</div>
-                                        <div class="message">Update Pull Request Check and Deploy Preview.yml (#212)</div>
+                                        <div class="sha">#278e552</div>
+                                        <div class="message">add manul trigger to action - Auto Create Pull Request</div>
                                     </div>
                                 </div>
                             </section>
@@ -337,16 +329,15 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Merged
-                                        <span class="issue">#212 Update Pull Request Check and Deploy Preview.yml</span>
+                                        Created new
+                      branch
+                                        <span class="code">feature/test2</span>
+                                        in
+                                        <span class="repo">cnjimbo/cnjimbo.github.io</span>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">cnjimbo/cnjimbo.github.io</span></div>
-                                    <div>0 files changed <span class="code">++0 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -357,15 +348,865 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 43 commits in
                                         <span class="repo">cnjimbo/cnjimbo.github.io</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">test-publish</span></div>
+                                    <div>on branch <span class="code">feature/remove-gitee-sync-action</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5bb6e91</div>
-                                        <div class="message">Merge branch 'master' into test-publish</div>
+                                        <div class="sha">#deec49d</div>
+                                        <div class="message">refactor(vscode-config): 更新扩展推荐列表和工具函数
+
+- 增加了"file-nesting"和"smart-clicks"扩展到推荐列表中，移除了"icons-carbon"。
+- 调整了"material-icon-theme"和"naumovs.color-highlight"的推荐顺序。
+- 重构了exportExtensions_ProfileToConfiguration和syncWorkspaceToVscode工具中的文件操作和JSON处理逻辑。
+- 确保代码工作区文件和VSCode设置文件之间的扩展和设置同步优先级。
+- 删除了exportExtensions_ProfileToConfiguration中未使用的JSON5依赖。
+
+BREAKING CHANGE: 对于使用旧版exportExtensions_ProfileToConfiguration脚本的用户，需要更新VSCode设置文件的处理逻辑以适应新的扩展列表和文件操作函数。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26725e5</div>
+                                        <div class="message">```diff
+@@ -1,6 +1,7 @@
+ {
+ "recommendations": [
+ "adam-bender.commit-message-editor",
++    "akclown.swagger-to-typescript",
+ "alberto-varela.monorepo-focus-workspace",
+ "alefragnani.project-manager",
+ "alexdima.copy-relative-path",
+@@ -11,7 +12,6 @@
+ "antfu.icons-carbon",
+ "antfu.open-in-github-button",
+ "antfu.slidev",
+-    "antfu.smart-clicks",
+ "antfu.unocss",
+ "antfu.vite",
+ "antfu.where-am-i",
+@@ -73,7 +73,6 @@
+ "ms-vscode.vscode-typescript-next",
+ "mulu-github.jsflowchart",
+ "mxsdev.typescript-explorer",
+-    "naumovs.color-highlight",
+ "neotan.vscode-auto-restart-typescript-eslint-servers",
+ "oouo-diogo-perdigao.docthis",
+ "owen-dev.vue3-snippets-plus",
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04c0f36</div>
+                                        <div class="message">```txt
+feat(vscode-config): 移除Copilot扩展并添加文件保存时运行命令配置
+
+- 从`.vscode/extensions.json`和`cnjimbo.github.io.code-workspace`中移除`github.copilot`和`github.copilot-chat`扩展。
+- 在`.vscode/settings.json`和`cnjimbo.github.io.code-workspace`中添加`emeraldwalk.runonsave`设置，定义在文件保存时运行的命令，具体为当保存`package.json`时，异步执行`pnpx vscode-ext-gen`命令。
+- 通过在`tools/exportExtensions_ProfileToConfiguration.ts`中调用`syncWorkspaceToVscode`函数来更新VSCode配置。
+- 修改`tools/syncWorkspaceToVscode.ts`中的`main`函数，使其导出为异步函数，以保持代码结构一致性。
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8115cf9</div>
+                                        <div class="message">```
+feat(vscode-settings): 调整侧边栏位置并启用alwaysShowHeaderActions
+
+更改了VSCode设置以将侧边栏位置从右侧移动到左侧。此外，启用了alwaysShowHeaderActions设置，
+确保在所有视图中始终显示标头操作按钮。
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e54bdd2</div>
+                                        <div class="message">```plaintext
+feat(vscode snippets): 添加常用代码片段
+
+添加了新的VSCode全局代码片段，包括导入和导出模块、Vue脚本设置、模板引用、计算属性、watchEffect、vitest条件编译和Markdown API表格。这些片段适用于JavaScript、TypeScript和Vue语言，可提高编码效率并保持代码规范一致性。
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de60374</div>
+                                        <div class="message">```diff
+@@ -8,14 +8,16 @@
+ "amodio.toggle-excluded-files",
+ "antfu.browse-lite",
+ "antfu.goto-alias",
+-    "antfu.iconify",
++    "antfu.icons-carbon",
++    "antfu.open-in-github-button",
++    "antfu.slidev",
+ "antfu.smart-clicks",
+ "antfu.unocss",
++    "antfu.vite",
+ "antfu.where-am-i",
+ "atishay-jain.all-autocomplete",
+ "bierner.markdown-emoji",
+@@ -28,11 +30,17 @@
+ "editorconfig.editorconfig",
+ "edwinkofler.vscode-assorted-languages",
+ "eliostruyf.vscode-hide-comments",
++    "emeraldwalk.runonsave",
++    "fabiospampinato.vscode-open-in-github",
++    "file-icons.file-icons",
+ "folke.vscode-monorepo-workspace",
+ "formulahendry.auto-rename-tag",
+ "formulahendry.code-runner",
++    "github.copilot",
++    "github.copilot-chat",
+ "github.remotehub",
+ "github.vscode-github-actions",
++    "github.vscode-pull-request-github",
+ "gregorbiswanger.json2ts",
+ "hancel.markdown-image",
+ "harrydowning.swap-tsconfig",
+@@ -56,6 +64,7 @@
+ "mike-co.import-sorter",
+ "mikestead.dotenv",
+ "mintlify.document",
++    "mpontus.tab-cycle",
+ "ms-1es.pull-request-quantifier",
+ "ms-vscode-remote.remote-wsl",
+ "ms-vscode-remote.remote-wsl-recommender",
+@@ -63,8 +72,10 @@
+ "ms-vscode.live-server",
+ "ms-vscode.powershell",
+ "ms-vscode.remote-repositories",
++    "ms-vscode.vscode-typescript-next",
+ "mulu-github.jsflowchart",
+ "mxsdev.typescript-explorer",
+ "neotan.vscode-auto-restart-typescript-eslint-servers",
+ "oouo-diago.perdigao.docthis",
+ "owen-dev.vue3-snippets-plus",
+@@ -73,15 +84,18 @@
+ "pmneo.tsimporter",
+ "redhat.vscode-yaml",
+ "richie5um2.vscode-sort-json",
++    "sainnhe.gruvbox-material",
+ "sirtori.indenticator",
+ "sleistner.vscode-fileutils",
+ "steoates.autoimport",
+ "stringham.move-ts",
++    "thinker.sort-json",
+ "tombonnike.vscode-status-bar-format-toggle",
+ "typeholes.ts-versions-switcher",
+ "usernamehw.errorlens",
+ "vivaxy.vscode-conventional-commits",
+ "vue.volar",
++    "wakatime.vscode-wakatime",
+ "wix.vscode-import-cost",
+ "wmaurer.change-case",
+ "yoavbls.pretty-ts-errors",
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48fb00f</div>
+                                        <div class="message">```diff
+@@ -21,9 +21,286 @@
+"eslint.format.enable": true,
+"eslint.useFlatConfig": true,
+"code-runner.executorMap": {
+-    "typescript": "cd $dir &amp;&amp; npx tsx $fullFileName"
++    "typescript": "cd $dir &amp;&amp; npx tsx $fullFileName",
++    "ahk": "autohotkey",
++    "applescript": "osascript",
++    "autoit": "autoit3",
++    "bat": "cmd /c",
++    "c": "cd $dir &amp;&amp; gcc $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "clojure": "lein exec",
++    "coffeescript": "coffee",
++    "cpp": "cd $dir &amp;&amp; g++ $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "crystal": "crystal",
++    "csharp": "scriptcs",
++    "d": "cd $dir &amp;&amp; dmd $fileName &amp;&amp; $dir$fileNameWithoutExt",
++    "dart": "dart",
++    "erlang": "escript",
++    "fortran": "cd $dir &amp;&amp; gfortran $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "fortran_fixed-form": "cd $dir &amp;&amp; gfortran $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "fortran-modern": "cd $dir &amp;&amp; gfortran $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "FortranFreeForm": "cd $dir &amp;&amp; gfortran $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "fsharp": "fsi",
++    "gleam": "gleam run -m $fileNameWithoutExt",
++    "go": "go run",
++    "groovy": "groovy",
++    "haskell": "runghc",
++    "haxe": "haxe --cwd $dir --run $fileNameWithoutExt",
++    "java": "cd $dir &amp;&amp; javac $fileName &amp;&amp; java $fileNameWithoutExt",
++    "javascript": "cd $dir &amp;&amp; node  --es-module-specifier-resolution=node  $fullFileName",
++    "julia": "julia",
++    "kit": "kitc --run",
++    "less": "cd $dir &amp;&amp; lessc $fileName $fileNameWithoutExt.css",
++    "lisp": "sbcl --script",
++    "lua": "lua",
++    "mojo": "mojo run",
++    "nim": "nim compile --verbosity:0 --hints:off --run",
++    "objective-c": "cd $dir &amp;&amp; gcc -framework Cocoa $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "ocaml": "ocaml",
++    "pascal": "cd $dir &amp;&amp; fpc $fileName &amp;&amp; $dir$fileNameWithoutExt",
++    "perl": "perl",
++    "perl6": "perl6",
++    "php": "php",
++    "pkl": "cd $dir &amp;&amp; pkl eval -f yaml $fileName -o $fileNameWithoutExt.yaml",
++    "powershell": "powershell -ExecutionPolicy ByPass -File",
++    "python": "python -u",
++    "r": "Rscript",
++    "racket": "racket",
++    "ruby": "ruby",
++    "rust": "cd $dir &amp;&amp; rustc $fileName &amp;&amp; $dir$fileNameWithoutExt",
++    "sass": "sass --style expanded",
++    "scala": "scala",
++    "scheme": "csi -script",
++    "scss": "scss --style expanded",
++    "shellscript": "bash",
++    "sml": "cd $dir &amp;&amp; sml $fileName",
++    "spwn": "spwn build",
++    "swift": "swift",
++    "v": "v run",
++    "vbscript": "cscript //Nologo",
++    "zig": "zig run"
+},
+"code-runner.executorMapByFileExtension": {
+".ts": "cd $dir &amp;&amp; npx tsx $fullFileName"
+-  }
++  },
++  "[javascript]": {
++    "editor.defaultFormatter": "vscode.typescript-language-features"
++  },
++  "[jsonc]": {
++    "editor.defaultFormatter": "vscode.json-language-features"
++  },
++  "[markdown]": {
++    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
++  },
++  "[typescript]": {
++    "editor.defaultFormatter": "vscode.typescript-language-features"
++  },
++  "[vue]": {
++    "editor.defaultFormatter": "Vue.volar"
++  },
++  "autoRestart.fileGlobForESLint": "**/{.eslintrc,eslint.config}.{js,cjs,yaml,yml,json,mjs,ts,mts}",
++  "autoRestart.fileGlobForTypescript": "**/{tsconfig,tsconfig.base,base.tsconfig}.{json,app.json,app.js,js,ts}",
++  "autoRestart.monitorFilesForESLint": true,
++  "autoRestart.showRestartNotificationForESLint": true,
++  "code-runner.clearPreviousOutput": true,
++  "ColorfulMonorepo.workspaces.collection": [],
++  "commit-message-editor.dynamicTemplate": [
++    "{type}{scope}: {description}",
++    "",
++    "{body}",
++    "",
++    "{breaking_change}{footer}"
++  ],
++  "commit-message-editor.staticTemplate": [
++    "feat: Short description",
++    "",
++    "Message body",
++    "",
++    "Message footer"
++  ],
++  "commit-message-editor.tokens": [
++    {
++      "description": "Type of changes",
++      "label": "Type",
++      "name": "type",
++      "options": [
++        {
++          "label": "---",
++          "value": ""
++        },
++        {
++          "description": "Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)",
++          "label": "build"
++        },
++        {
++          "description": "Updating grunt tasks etc; no production code change",
++          "label": "chore"
++        },
++        {
++          "description": "Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)",
++          "label": "ci"
++        },
++        {
++          "description": "Documentation only changes",
++          "label": "docs"
++        },
++        {
++          "description": "A new feature",
++          "label": "feat"
++        },
++        {
++          "description": "A bug fix",
++          "label": "fix"
++        },
++        {
++          "description": "A code change that improves performance",
++          "label": "perf"
++        },
++        {
++          "description": "A code change that neither fixes a bug nor adds a feature",
++          "label": "refactor"
++        },
++        {
++          "label": "revert"
++        },
++        {
++          "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)",
++          "label": "style"
++        },
++        {
++          "description": "Adding missing tests or correcting existing tests",
++          "label": "test"
++        }
++      ],
++      "type": "enum"
++    },
++    {
++      "description": "A scope may be provided to a commit’s type, to provide additional contextual information and is contained within parenthesis, e.g., \"feat(parser): add ability to parse arrays\".",
++      "label": "Scope",
++      "multiline": false,
++      "name": "scope",
++      "prefix": "(",
++      "suffix": ")",
++      "type": "text"
++    },
++    {
++      "description": "Short description in the subject line.",
++      "label": "Short description",
++      "multiline":</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54cd493</div>
+                                        <div class="message">fix(vscode-settings): 移除重复的ESLint配置并删除未使用的工具
+
+移除了 `.vscode/settings.json` 中重复的 ESLint 格式化和扁平配置选项，并删除了不再需要的 `ensureTsEnvOfCodeRunner.ts` 工具脚本。还移除了 `util.js` 中的一些未使用代码，以保持项目文件的整洁。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#94e41bc</div>
+                                        <div class="message">refactor(tsup-config): 将目标从'esnext'改为'es2022'
+
+更改构建配置以使用'es2022'目标，优化编译过程并与当前JavaScript标准保持一致。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b442d59</div>
+                                        <div class="message">refactor(vscode-extension): 删除推荐列表中的重复项
+
+推荐的VSCode扩展列表中没有重复项，以避免向用户推荐同一扩展多次。此外，构建推荐扩展的工具和TypeScript配置已更新，以适应新的代码结构。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9301f71</div>
+                                        <div class="message">```
+更新tsconfig.json以包含outDir设置并调整编译器选项
+
+在tsconfig.json中引入了"outDir"编译器选项，并清理了"files"列表，以改善构建输出和目录管理。此更改还涉及对编译器选项进行微调，以确保与项目设置保持一致。
+
+同时，对tsconfig.node.json进行了调整，清除了"exclude"数组，以简化Node配置并提高可维护性。整体上，这些调整旨在优化项目的TypeScript构建流程并确保更清晰的构建输出管理。
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1abe88</div>
+                                        <div class="message">"refactor(settings): 更新VSCode设置和包配置
+
+- 启用并配置ESLint集成
+- 添加新的包依赖并更新现有依赖
+- 删除不再需要的TypeScript和Vue类型定义
+- 优化代码运行器环境检查脚本
+- 确保tsconfig.json配置合理调整"
+
+此次提交对VSCode开发环境进行了多项重构和优化。首先，启用了ESLint，并且通过在settings.json中添加配置来促进代码的规范和自动化检查。同时，对项目的依赖项进行了更新和扩充，引入了新的类型定义以提升代码的类型安全性。
+
+在工具方面，删除了过时的TypeScript和Vue类型定义，这些定义由于项目演进已不再需要。此外，对代码运行器环境检查的脚本进行了优化，以提高其效率和准确性。最后，对tsconfig.json的配置进行了合理的调整，以支持新的开发需求。
+
+这些改动将有助于提升项目的可维护性，加强代码质量的自动化检查，并且为开发者提供更加便捷的开发环境配置。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c572e74</div>
+                                        <div class="message">"确保Typescript环境的CodeRunner配置更新"
+
+此次更改更新了VSCode的启动配置，将`ensureCodeRunner.js`更改为`ensureTsEnvOfCodeRunner.js`。此更改旨在确保Typescript环境的CodeRunner配置正确设置，包括对`executorMap`和`executorMapByFileExtension`的更新，以便在项目中正确运行和调试Typescript文件。此外，删除了不再需要的`ensureCodeRunner.js`文件。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2afb67</div>
+                                        <div class="message">"更新CodeRunner配置和VSCode设置以改进代码环境"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f05561f</div>
+                                        <div class="message">"优化code-runner环境检查与设置合并逻辑"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a65a0f3</div>
+                                        <div class="message">Merge branch 'master' into workspace/update-code-runner-settings-in-tow-.vscode-and--.code-workspace</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f7658e</div>
+                                        <div class="message">Merge branch 'master' into workspace/update-code-runner-settings-in-tow-.vscode-and--.code-workspace</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b37aa5</div>
+                                        <div class="message">"移除explorer.excludeGitIgnore设置"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#caa5239</div>
+                                        <div class="message">"更新VSCode扩展推荐列表，新增tailwindcss支持并移除不再使用的扩展"
+
+本次更新调整了VSCode扩展的推荐列表，具体变化包括：
+- 新增`bradlc.vscode-tailwindcss`扩展，以支持Tailwind CSS的开发，这是基于项目需求新增的扩展，以提升相关开发者的效率和体验。
+- 移除`bluebrown.yamlfmt`扩展，因其功能已被现有扩展覆盖，且项目中不再频繁使用YAML格式的文件。
+- 移除`github.vscode-pull-request-github`扩展，因为团队调整了GitHub交互的方式，将不再通过VSCode进行拉取请求的直接处理。
+- 移除`ms-vscode.vscode-typescript-next`扩展，原因是团队决定使用更稳定版本的TypeScript，该扩展已不再需要。
+
+这些调整旨在优化开发环境配置，确保推荐的扩展能够更好地服务于当前项目需求，同时减少不必要的扩展，提升开发效率。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1468035</div>
+                                        <div class="message">```
+chore(dependencies): 更新多个依赖并修复相关bug
+
+更新以下依赖至指定版本，同时解决依赖更新引入的问题：
+- 使用vitepress-plugin-pagefind@0.4.10，修正中文文件支持问题。
+- 使用vitepress-plugin-rss@0.2.10，修复cdata.replace错误。
+- 更新vitepress主题和共享依赖，优化sass警告信息。
+
+依赖版本更新详情：
+- `@sugarat/create-theme` 从 0.0.73 升至 0.0.74
+- `@sugarat/theme` 从 0.4.8 升至 0.4.9
+- `vitepress-plugin-pagefind` 从 0.4.9 升至 0.4.10
+- `vitepress-plugin-rss` 从 0.2.8 升至 0.2.10
+
+此次更新还涉及内部依赖和插件的优化，以提高性能和兼容性。
+```</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 42 commits in
+                                        <span class="repo">cnjimbo/cnjimbo.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/remove-gitee-sync-action</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#deec49d</div>
+                                        <div class="message">refactor(vscode-config): 更新扩展推荐列表和工具函数
+
+- 增加了"file-nesting"和"smart-clicks"扩展到推荐列表中，移除了"icons-carbon"。
+- 调整了"material-icon-theme"和"naumovs.color-highlight"的推荐顺序。
+- 重构了exportExtensions_ProfileToConfiguration和syncWorkspaceToVscode工具中的文件操作和JSON处理逻辑。
+- 确保代码工作区文件和VSCode设置文件之间的扩展和设置同步优先级。
+- 删除了exportExtensions_ProfileToConfiguration中未使用的JSON5依赖。
+
+BREAKING CHANGE: 对于使用旧版exportExtensions_ProfileToConfiguration脚本的用户，需要更新VSCode设置文件的处理逻辑以适应新的扩展列表和文件操作函数。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26725e5</div>
+                                        <div class="message">```diff
+@@ -1,6 +1,7 @@
+ {
+ "recommendations": [
+ "adam-bender.commit-message-editor",
++    "akclown.swagger-to-typescript",
+ "alberto-varela.monorepo-focus-workspace",
+ "alefragnani.project-manager",
+ "alexdima.copy-relative-path",
+@@ -11,7 +12,6 @@
+ "antfu.icons-carbon",
+ "antfu.open-in-github-button",
+ "antfu.slidev",
+-    "antfu.smart-clicks",
+ "antfu.unocss",
+ "antfu.vite",
+ "antfu.where-am-i",
+@@ -73,7 +73,6 @@
+ "ms-vscode.vscode-typescript-next",
+ "mulu-github.jsflowchart",
+ "mxsdev.typescript-explorer",
+-    "naumovs.color-highlight",
+ "neotan.vscode-auto-restart-typescript-eslint-servers",
+ "oouo-diogo-perdigao.docthis",
+ "owen-dev.vue3-snippets-plus",
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04c0f36</div>
+                                        <div class="message">```txt
+feat(vscode-config): 移除Copilot扩展并添加文件保存时运行命令配置
+
+- 从`.vscode/extensions.json`和`cnjimbo.github.io.code-workspace`中移除`github.copilot`和`github.copilot-chat`扩展。
+- 在`.vscode/settings.json`和`cnjimbo.github.io.code-workspace`中添加`emeraldwalk.runonsave`设置，定义在文件保存时运行的命令，具体为当保存`package.json`时，异步执行`pnpx vscode-ext-gen`命令。
+- 通过在`tools/exportExtensions_ProfileToConfiguration.ts`中调用`syncWorkspaceToVscode`函数来更新VSCode配置。
+- 修改`tools/syncWorkspaceToVscode.ts`中的`main`函数，使其导出为异步函数，以保持代码结构一致性。
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8115cf9</div>
+                                        <div class="message">```
+feat(vscode-settings): 调整侧边栏位置并启用alwaysShowHeaderActions
+
+更改了VSCode设置以将侧边栏位置从右侧移动到左侧。此外，启用了alwaysShowHeaderActions设置，
+确保在所有视图中始终显示标头操作按钮。
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e54bdd2</div>
+                                        <div class="message">```plaintext
+feat(vscode snippets): 添加常用代码片段
+
+添加了新的VSCode全局代码片段，包括导入和导出模块、Vue脚本设置、模板引用、计算属性、watchEffect、vitest条件编译和Markdown API表格。这些片段适用于JavaScript、TypeScript和Vue语言，可提高编码效率并保持代码规范一致性。
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de60374</div>
+                                        <div class="message">```diff
+@@ -8,14 +8,16 @@
+ "amodio.toggle-excluded-files",
+ "antfu.browse-lite",
+ "antfu.goto-alias",
+-    "antfu.iconify",
++    "antfu.icons-carbon",
++    "antfu.open-in-github-button",
++    "antfu.slidev",
+ "antfu.smart-clicks",
+ "antfu.unocss",
++    "antfu.vite",
+ "antfu.where-am-i",
+ "atishay-jain.all-autocomplete",
+ "bierner.markdown-emoji",
+@@ -28,11 +30,17 @@
+ "editorconfig.editorconfig",
+ "edwinkofler.vscode-assorted-languages",
+ "eliostruyf.vscode-hide-comments",
++    "emeraldwalk.runonsave",
++    "fabiospampinato.vscode-open-in-github",
++    "file-icons.file-icons",
+ "folke.vscode-monorepo-workspace",
+ "formulahendry.auto-rename-tag",
+ "formulahendry.code-runner",
++    "github.copilot",
++    "github.copilot-chat",
+ "github.remotehub",
+ "github.vscode-github-actions",
++    "github.vscode-pull-request-github",
+ "gregorbiswanger.json2ts",
+ "hancel.markdown-image",
+ "harrydowning.swap-tsconfig",
+@@ -56,6 +64,7 @@
+ "mike-co.import-sorter",
+ "mikestead.dotenv",
+ "mintlify.document",
++    "mpontus.tab-cycle",
+ "ms-1es.pull-request-quantifier",
+ "ms-vscode-remote.remote-wsl",
+ "ms-vscode-remote.remote-wsl-recommender",
+@@ -63,8 +72,10 @@
+ "ms-vscode.live-server",
+ "ms-vscode.powershell",
+ "ms-vscode.remote-repositories",
++    "ms-vscode.vscode-typescript-next",
+ "mulu-github.jsflowchart",
+ "mxsdev.typescript-explorer",
+ "neotan.vscode-auto-restart-typescript-eslint-servers",
+ "oouo-diago.perdigao.docthis",
+ "owen-dev.vue3-snippets-plus",
+@@ -73,15 +84,18 @@
+ "pmneo.tsimporter",
+ "redhat.vscode-yaml",
+ "richie5um2.vscode-sort-json",
++    "sainnhe.gruvbox-material",
+ "sirtori.indenticator",
+ "sleistner.vscode-fileutils",
+ "steoates.autoimport",
+ "stringham.move-ts",
++    "thinker.sort-json",
+ "tombonnike.vscode-status-bar-format-toggle",
+ "typeholes.ts-versions-switcher",
+ "usernamehw.errorlens",
+ "vivaxy.vscode-conventional-commits",
+ "vue.volar",
++    "wakatime.vscode-wakatime",
+ "wix.vscode-import-cost",
+ "wmaurer.change-case",
+ "yoavbls.pretty-ts-errors",
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48fb00f</div>
+                                        <div class="message">```diff
+@@ -21,9 +21,286 @@
+"eslint.format.enable": true,
+"eslint.useFlatConfig": true,
+"code-runner.executorMap": {
+-    "typescript": "cd $dir &amp;&amp; npx tsx $fullFileName"
++    "typescript": "cd $dir &amp;&amp; npx tsx $fullFileName",
++    "ahk": "autohotkey",
++    "applescript": "osascript",
++    "autoit": "autoit3",
++    "bat": "cmd /c",
++    "c": "cd $dir &amp;&amp; gcc $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "clojure": "lein exec",
++    "coffeescript": "coffee",
++    "cpp": "cd $dir &amp;&amp; g++ $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "crystal": "crystal",
++    "csharp": "scriptcs",
++    "d": "cd $dir &amp;&amp; dmd $fileName &amp;&amp; $dir$fileNameWithoutExt",
++    "dart": "dart",
++    "erlang": "escript",
++    "fortran": "cd $dir &amp;&amp; gfortran $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "fortran_fixed-form": "cd $dir &amp;&amp; gfortran $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "fortran-modern": "cd $dir &amp;&amp; gfortran $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "FortranFreeForm": "cd $dir &amp;&amp; gfortran $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "fsharp": "fsi",
++    "gleam": "gleam run -m $fileNameWithoutExt",
++    "go": "go run",
++    "groovy": "groovy",
++    "haskell": "runghc",
++    "haxe": "haxe --cwd $dir --run $fileNameWithoutExt",
++    "java": "cd $dir &amp;&amp; javac $fileName &amp;&amp; java $fileNameWithoutExt",
++    "javascript": "cd $dir &amp;&amp; node  --es-module-specifier-resolution=node  $fullFileName",
++    "julia": "julia",
++    "kit": "kitc --run",
++    "less": "cd $dir &amp;&amp; lessc $fileName $fileNameWithoutExt.css",
++    "lisp": "sbcl --script",
++    "lua": "lua",
++    "mojo": "mojo run",
++    "nim": "nim compile --verbosity:0 --hints:off --run",
++    "objective-c": "cd $dir &amp;&amp; gcc -framework Cocoa $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",
++    "ocaml": "ocaml",
++    "pascal": "cd $dir &amp;&amp; fpc $fileName &amp;&amp; $dir$fileNameWithoutExt",
++    "perl": "perl",
++    "perl6": "perl6",
++    "php": "php",
++    "pkl": "cd $dir &amp;&amp; pkl eval -f yaml $fileName -o $fileNameWithoutExt.yaml",
++    "powershell": "powershell -ExecutionPolicy ByPass -File",
++    "python": "python -u",
++    "r": "Rscript",
++    "racket": "racket",
++    "ruby": "ruby",
++    "rust": "cd $dir &amp;&amp; rustc $fileName &amp;&amp; $dir$fileNameWithoutExt",
++    "sass": "sass --style expanded",
++    "scala": "scala",
++    "scheme": "csi -script",
++    "scss": "scss --style expanded",
++    "shellscript": "bash",
++    "sml": "cd $dir &amp;&amp; sml $fileName",
++    "spwn": "spwn build",
++    "swift": "swift",
++    "v": "v run",
++    "vbscript": "cscript //Nologo",
++    "zig": "zig run"
+},
+"code-runner.executorMapByFileExtension": {
+".ts": "cd $dir &amp;&amp; npx tsx $fullFileName"
+-  }
++  },
++  "[javascript]": {
++    "editor.defaultFormatter": "vscode.typescript-language-features"
++  },
++  "[jsonc]": {
++    "editor.defaultFormatter": "vscode.json-language-features"
++  },
++  "[markdown]": {
++    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
++  },
++  "[typescript]": {
++    "editor.defaultFormatter": "vscode.typescript-language-features"
++  },
++  "[vue]": {
++    "editor.defaultFormatter": "Vue.volar"
++  },
++  "autoRestart.fileGlobForESLint": "**/{.eslintrc,eslint.config}.{js,cjs,yaml,yml,json,mjs,ts,mts}",
++  "autoRestart.fileGlobForTypescript": "**/{tsconfig,tsconfig.base,base.tsconfig}.{json,app.json,app.js,js,ts}",
++  "autoRestart.monitorFilesForESLint": true,
++  "autoRestart.showRestartNotificationForESLint": true,
++  "code-runner.clearPreviousOutput": true,
++  "ColorfulMonorepo.workspaces.collection": [],
++  "commit-message-editor.dynamicTemplate": [
++    "{type}{scope}: {description}",
++    "",
++    "{body}",
++    "",
++    "{breaking_change}{footer}"
++  ],
++  "commit-message-editor.staticTemplate": [
++    "feat: Short description",
++    "",
++    "Message body",
++    "",
++    "Message footer"
++  ],
++  "commit-message-editor.tokens": [
++    {
++      "description": "Type of changes",
++      "label": "Type",
++      "name": "type",
++      "options": [
++        {
++          "label": "---",
++          "value": ""
++        },
++        {
++          "description": "Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)",
++          "label": "build"
++        },
++        {
++          "description": "Updating grunt tasks etc; no production code change",
++          "label": "chore"
++        },
++        {
++          "description": "Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)",
++          "label": "ci"
++        },
++        {
++          "description": "Documentation only changes",
++          "label": "docs"
++        },
++        {
++          "description": "A new feature",
++          "label": "feat"
++        },
++        {
++          "description": "A bug fix",
++          "label": "fix"
++        },
++        {
++          "description": "A code change that improves performance",
++          "label": "perf"
++        },
++        {
++          "description": "A code change that neither fixes a bug nor adds a feature",
++          "label": "refactor"
++        },
++        {
++          "label": "revert"
++        },
++        {
++          "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)",
++          "label": "style"
++        },
++        {
++          "description": "Adding missing tests or correcting existing tests",
++          "label": "test"
++        }
++      ],
++      "type": "enum"
++    },
++    {
++      "description": "A scope may be provided to a commit’s type, to provide additional contextual information and is contained within parenthesis, e.g., \"feat(parser): add ability to parse arrays\".",
++      "label": "Scope",
++      "multiline": false,
++      "name": "scope",
++      "prefix": "(",
++      "suffix": ")",
++      "type": "text"
++    },
++    {
++      "description": "Short description in the subject line.",
++      "label": "Short description",
++      "multiline":</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54cd493</div>
+                                        <div class="message">fix(vscode-settings): 移除重复的ESLint配置并删除未使用的工具
+
+移除了 `.vscode/settings.json` 中重复的 ESLint 格式化和扁平配置选项，并删除了不再需要的 `ensureTsEnvOfCodeRunner.ts` 工具脚本。还移除了 `util.js` 中的一些未使用代码，以保持项目文件的整洁。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#94e41bc</div>
+                                        <div class="message">refactor(tsup-config): 将目标从'esnext'改为'es2022'
+
+更改构建配置以使用'es2022'目标，优化编译过程并与当前JavaScript标准保持一致。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b442d59</div>
+                                        <div class="message">refactor(vscode-extension): 删除推荐列表中的重复项
+
+推荐的VSCode扩展列表中没有重复项，以避免向用户推荐同一扩展多次。此外，构建推荐扩展的工具和TypeScript配置已更新，以适应新的代码结构。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9301f71</div>
+                                        <div class="message">```
+更新tsconfig.json以包含outDir设置并调整编译器选项
+
+在tsconfig.json中引入了"outDir"编译器选项，并清理了"files"列表，以改善构建输出和目录管理。此更改还涉及对编译器选项进行微调，以确保与项目设置保持一致。
+
+同时，对tsconfig.node.json进行了调整，清除了"exclude"数组，以简化Node配置并提高可维护性。整体上，这些调整旨在优化项目的TypeScript构建流程并确保更清晰的构建输出管理。
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1abe88</div>
+                                        <div class="message">"refactor(settings): 更新VSCode设置和包配置
+
+- 启用并配置ESLint集成
+- 添加新的包依赖并更新现有依赖
+- 删除不再需要的TypeScript和Vue类型定义
+- 优化代码运行器环境检查脚本
+- 确保tsconfig.json配置合理调整"
+
+此次提交对VSCode开发环境进行了多项重构和优化。首先，启用了ESLint，并且通过在settings.json中添加配置来促进代码的规范和自动化检查。同时，对项目的依赖项进行了更新和扩充，引入了新的类型定义以提升代码的类型安全性。
+
+在工具方面，删除了过时的TypeScript和Vue类型定义，这些定义由于项目演进已不再需要。此外，对代码运行器环境检查的脚本进行了优化，以提高其效率和准确性。最后，对tsconfig.json的配置进行了合理的调整，以支持新的开发需求。
+
+这些改动将有助于提升项目的可维护性，加强代码质量的自动化检查，并且为开发者提供更加便捷的开发环境配置。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c572e74</div>
+                                        <div class="message">"确保Typescript环境的CodeRunner配置更新"
+
+此次更改更新了VSCode的启动配置，将`ensureCodeRunner.js`更改为`ensureTsEnvOfCodeRunner.js`。此更改旨在确保Typescript环境的CodeRunner配置正确设置，包括对`executorMap`和`executorMapByFileExtension`的更新，以便在项目中正确运行和调试Typescript文件。此外，删除了不再需要的`ensureCodeRunner.js`文件。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2afb67</div>
+                                        <div class="message">"更新CodeRunner配置和VSCode设置以改进代码环境"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f05561f</div>
+                                        <div class="message">"优化code-runner环境检查与设置合并逻辑"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a65a0f3</div>
+                                        <div class="message">Merge branch 'master' into workspace/update-code-runner-settings-in-tow-.vscode-and--.code-workspace</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f7658e</div>
+                                        <div class="message">Merge branch 'master' into workspace/update-code-runner-settings-in-tow-.vscode-and--.code-workspace</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b37aa5</div>
+                                        <div class="message">"移除explorer.excludeGitIgnore设置"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#caa5239</div>
+                                        <div class="message">"更新VSCode扩展推荐列表，新增tailwindcss支持并移除不再使用的扩展"
+
+本次更新调整了VSCode扩展的推荐列表，具体变化包括：
+- 新增`bradlc.vscode-tailwindcss`扩展，以支持Tailwind CSS的开发，这是基于项目需求新增的扩展，以提升相关开发者的效率和体验。
+- 移除`bluebrown.yamlfmt`扩展，因其功能已被现有扩展覆盖，且项目中不再频繁使用YAML格式的文件。
+- 移除`github.vscode-pull-request-github`扩展，因为团队调整了GitHub交互的方式，将不再通过VSCode进行拉取请求的直接处理。
+- 移除`ms-vscode.vscode-typescript-next`扩展，原因是团队决定使用更稳定版本的TypeScript，该扩展已不再需要。
+
+这些调整旨在优化开发环境配置，确保推荐的扩展能够更好地服务于当前项目需求，同时减少不必要的扩展，提升开发效率。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1468035</div>
+                                        <div class="message">```
+chore(dependencies): 更新多个依赖并修复相关bug
+
+更新以下依赖至指定版本，同时解决依赖更新引入的问题：
+- 使用vitepress-plugin-pagefind@0.4.10，修正中文文件支持问题。
+- 使用vitepress-plugin-rss@0.2.10，修复cdata.replace错误。
+- 更新vitepress主题和共享依赖，优化sass警告信息。
+
+依赖版本更新详情：
+- `@sugarat/create-theme` 从 0.0.73 升至 0.0.74
+- `@sugarat/theme` 从 0.4.8 升至 0.4.9
+- `vitepress-plugin-pagefind` 从 0.4.9 升至 0.4.10
+- `vitepress-plugin-rss` 从 0.2.8 升至 0.2.10
+
+此次更新还涉及内部依赖和插件的优化，以提高性能和兼容性。
+```</div>
                                     </div>
                                 </div>
                             </section>
@@ -375,7 +1216,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Sept 2024, 14:14:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Sept 2024, 15:10:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
