@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="970" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="936" class="">
     <defs>
         <style/>
     </defs>
@@ -284,6 +284,62 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">open-dmsrs/vscode-project-config-updater</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c6ec9d5</div>
+                                        <div class="message">test</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.3.2-beta.2</span>
+                                        in
+                                        <span class="repo">open-dmsrs/reactive-meta-gen</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">open-dmsrs/reactive-meta-gen</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev/v0.3.2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#017fd1e</div>
+                                        <div class="message">chore: release v0.3.2-beta.2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">open-dmsrs/reactive-meta-gen</span>
                                     </div>
@@ -325,72 +381,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">open-dmsrs/reactive-meta-gen</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev/v0.3.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b6818a1</div>
-                                        <div class="message">perf(generateDTS): <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> improve performance</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">open-dmsrs/reactive-meta-gen</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev/v0.3.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4d28d79</div>
-                                        <div class="message">perf(generateDTS): <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> improve performance</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">open-dmsrs/reactive-meta-gen</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev/v0.3.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e86914a</div>
-                                        <div class="message">build(generateDTS): Add new function getStatusBarItemOption</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2024, 14:15:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Oct 2024, 15:11:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
