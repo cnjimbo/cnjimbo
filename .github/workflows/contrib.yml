@@ -1,8 +1,12 @@
 name: 3D Contrib
 
+permissions:
+  contents: write
+  packages: write
+
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: 0 0 * * *
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
@@ -11,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
